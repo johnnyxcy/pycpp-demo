@@ -1,3 +1,5 @@
 .local
 .cache
 build
+eigen-3.4.0
+.venv

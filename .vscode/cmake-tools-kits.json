@@ -1,0 +1,11 @@
+[
+  {
+    "name": "gXX",
+    "compilers": {
+      "C": "gcc",
+      "CXX": "g++"
+    },
+    "environmentSetupScript": "${workspaceFolder}/.venv/bin/activate",
+    "isTrusted": true
+  }
+]
